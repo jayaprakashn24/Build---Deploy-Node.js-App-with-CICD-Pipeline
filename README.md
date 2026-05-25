@@ -5,6 +5,10 @@ This repository demonstrates a **real-world CI/CD pipeline** for deploying a **N
 
 The objective of this project is to show how modern DevOps teams **build, containerize, and automatically deploy applications** using industry-standard tools in a production-style workflow.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8df6c04d61b4ebf8bb1450fbd640de59151addcd
 
 ## 🚀 What This Project Covers
 
