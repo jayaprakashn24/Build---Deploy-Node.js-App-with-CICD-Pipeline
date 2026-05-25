@@ -21,7 +21,7 @@ const server = http.createServer((req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
-      <title>🚀 CI/CD Demo App</title>
+      <title>🚀 CI/CD Demo App!</title>
       <style>
         body {
           margin: 0;

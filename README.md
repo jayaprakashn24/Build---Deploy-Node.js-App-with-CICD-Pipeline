@@ -49,4 +49,3 @@ Docker Container Running on EC2
 Application Accessible to Users
 
 
-Youtube Video link: https://youtu.be/WwxSNIrW8bk
